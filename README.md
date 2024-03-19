@@ -1,1 +1,0 @@
-# Imaging Physics Laboratory, UCI

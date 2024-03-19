@@ -15,21 +15,17 @@ By organizing our GitHub repositories into Packages and Projects, we aim to prom
 
 ## Key Packages
 ### Imaging Physics
-**CalciumScoring.jl**: [Package description and purpose]
-
-**PerfusionImaging.jl**: [Package description and purpose]
-
-**MaterialDecomposition.jl**: [Package description and purpose]
+- **CalciumScoring.jl**: [Package description and purpose]
+- **PerfusionImaging.jl**: [Package description and purpose]
+- **MaterialDecomposition.jl**: [Package description and purpose]
 
 ### Deep Learning
-**DistanceTransforms.jl**: [Package description and purpose]
-
-**Losers.jl**: [Package description and purpose]
-
-**ComputerVisionMetrics.jl**: [Package description and purpose]
+- **DistanceTransforms.jl**: [Package description and purpose]
+- **Losers.jl**: [Package description and purpose]
+- **ComputerVisionMetrics.jl**: [Package description and purpose]
 
 ### Data Engineering
-**OrthancTools.jl**: [Package description and purpose]
+- **OrthancTools.jl**: [Package description and purpose]
 
 ## Onboarding
 1. **Learn Advanced Scientific Computing**: Watch every video in this 6-part lecture series on [advanced scientific computing](https://www.youtube.com/playlist?list=PL-G47MxHVTewUm5ywggLvmbUCNOD2RbKA). Pay close attention to Git/GitHub and all of the fundamental software engineering best practices. This should only take half a day.

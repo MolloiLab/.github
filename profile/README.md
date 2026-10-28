@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MolloiLab/Vasculature.jl/main/docs/assets/heart_flow.webp" width="460" alt="A coronary tree grown inside an anatomical heart, arteries in red and veins in blue">
-</p>
-
 <h1 align="center">MolloiLab</h1>
 
 <p align="center">
@@ -9,7 +5,9 @@
   Open tools for simulating and quantifying CT.
 </p>
 
-<br>
+<p align="center">
+  <img src="banner.png" width="100%" alt="Grow the vessels of a heart, scan it like a clinical scanner, and measure what flows">
+</p>
 
 | Tool | What it does |
 |---|---|
